@@ -52,7 +52,7 @@ public class CashbillServiceAutoConfiguration {
         cashbillServiceImp.setProxyIP(popbillServiceProperties.getProxyIp());
         cashbillServiceImp.setProxyPort(popbillServiceProperties.getProxyPort());
 
-        logger.debug("POPBiLL Initialized CasbhillService");
+        logger.debug("POPBiLL Initialized CashbillService");
 
         return cashbillServiceImp;
     }
