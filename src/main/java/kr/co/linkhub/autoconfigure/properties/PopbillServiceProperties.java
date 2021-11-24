@@ -6,7 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 public class PopbillServiceProperties {
     private String LinkID = null;
     private String SecretKey = null;
-    private Boolean isTest = false;
+    private Boolean isTest = true;
     private Boolean useStaticIP = false;
     private Boolean useGAIP = false;
     private Boolean useLocalTimeYN = true;
