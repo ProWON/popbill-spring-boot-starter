@@ -26,10 +26,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com/linkhub-sdk/popbill.springboot.sdk.java.git
+        <connection>scm:git:git@github.com/linkhub-sdk/popbill.springboot.git
         </connection>
-        <url>git@github.com/linkhub-sdk/popbill.springboot.sdk.java.git
-        </url>
+        <url>git@github.com/linkhub-sdk/popbill.springboot.git</url>
     </scm>
 
     <developers>
